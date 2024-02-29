@@ -1,0 +1,16 @@
+.comments-wrapper {
+    width: 1%;
+    display: flex;
+    gap: 3px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.comments__top-img img {
+    width: 10%;
+    height: 10%;
+    object-fit: cover;
+}
+
+
+

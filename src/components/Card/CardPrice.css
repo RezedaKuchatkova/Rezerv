@@ -1,0 +1,24 @@
+.card-price-wrapper {
+    width: 100%;
+    display: grid;
+    gap: 40px;
+    margin-bottom: 50px;
+}
+
+.card-price-wrapper__title {
+    width: 100%;
+    text-align: center;
+    font-weight: 800;
+    font-size: 3.6rem;
+    color: #2F2A37;
+}
+
+.card-price-block__title {
+    font-size: 3.6rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #4bf2ef;
+    display: grid;
+    text-align: center;
+}
+

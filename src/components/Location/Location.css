@@ -1,0 +1,11 @@
+//*.location {
+    width: 100%;
+    min-height: calc(100dvh - 100px);
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+
+
+
